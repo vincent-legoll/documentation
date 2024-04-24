@@ -58,7 +58,7 @@ Description du projet
 Description de la demande à France Grilles
 ------------------------------------------
 
-Dans cette section permet de décrire synthétiquement l'objet de la
+Cette section permet de décrire synthétiquement l'objet de la
 demande (expliquez ce que vous attendez de cette utilisation des
 services offerts sur l'infrastructure France Grilles et quels services
 vous souhaitez utiliser). La liste des services est disponible sur :
@@ -76,7 +76,7 @@ l'utilisation des services France Grilles. Des exemples de formation
 sont disponibles sur : https://www.france-grilles.fr/category/formation/
 
 Nous pouvons par ailleurs réaliser des formations à la demande. Dans tous
-les cas, il faudrait préciser le nombre de personnes qui aura besoin
+les cas, il faudrait préciser le nombre de personnes qui auront besoin
 de formation, le type et le niveau de formation attendu.
 
 Pensez-vous avoir besoin de soutien pour l'adaptation à la grille et/ou
@@ -94,8 +94,8 @@ Par exemple, les données utilisées sont-elles partagées avec d'autres
 personnes ? Les applications sont-elles communes ? Ces personnes
 utilisent-ils déjà l’infrastructure France Grilles ou l'infrastructure
 `EGI <https://www.egi.eu>`_ ou une infrastructure nationale distribuée ?
-Si de telles collaborations sont prévues ou possibles, indiquez si
-possible les pays, projets ou infrastructures concernées. Si vous les
+Si de telles collaborations sont prévues ou possibles, indiquez, si vous
+pouvez, les pays, projets ou infrastructures concernées. Si vous les
 connaissez, indiquez les « organisations virtuelles » (VO) auxquelles
 participent ces scientifiques.
 
@@ -104,11 +104,11 @@ Besoin des applications
 -----------------------
 
 Dans cette section, il est possible de détailler les besoins de
-chacune de vos applications. Le terme application est un programme
-informatique ou un ensemble de programmes informatiques et de
-bibliothèques qui peuvent avoir été fournis par un éditeur et/ou
-être/avoir été développés par l'utilisateur ou ses collègues ou
-partenaires.
+chacune de vos applications. Le terme application est utilisé pour
+un programme informatique ou un ensemble de programmes informatiques
+et de bibliothèques qui peuvent avoir été fournis par un éditeur
+et/ou être/avoir été développés par l'utilisateur ou ses collègues
+ou partenaires.
 
 Cette partie permet de quantifier le besoin en ressources, soyez le
 plus précis possible en fonction des services.
@@ -117,7 +117,7 @@ plus précis possible en fonction des services.
 Grille de calcul
 ++++++++++++++++
 
-* Temps de calcul CPU maximum et moyenné sur une période donnée
+* Temps de calcul CPU maximum, et moyenné sur une période donnée,
   envisagé (pic et temps moyen).
 
 * Quantité de RAM nécessaire.
