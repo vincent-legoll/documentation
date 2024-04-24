@@ -1,5 +1,5 @@
-Demande d'accès à l'infrastructure France Grilles
-=================================================
+Demande d'accès aux services France Grilles
+===========================================
 
 **Version : 1.0**
 
@@ -19,6 +19,7 @@ Ce formulaire est à renseigner le plus précisément possible par le ou
 les demandeur(s) de façon à permettre une étude du besoin par
 l'équipe France Grilles.
 
+
 Identification du porteur du projet
 -----------------------------------
 
@@ -37,7 +38,7 @@ de l'activité sur les services France Grilles.
 
 * Laboratoire ou service :
 
-* Site web du labo :
+* Site web du laboratoire :
 
 * Tutelle du demandeur :
 
@@ -45,10 +46,10 @@ de l'activité sur les services France Grilles.
 Description du projet
 ---------------------
 
-* Descriptif du projet : *décriver votre projet en maximum une
+* Descriptif du projet : *décrivez votre projet en maximum une
   demi-page.*
 
-* Discipline : *préciser la ou les disciplines scientifiques selon
+* Discipline : *précisez la ou les disciplines scientifiques selon
   la nomenclature ERC* [1]_
 
 * Date de début souhaitée :
@@ -74,8 +75,8 @@ Est-ce que des formations sont nécessaires pour vous accompagner dans
 l'utilisation des services France Grilles. Des exemples de formation
 sont disponibles sur : https://www.france-grilles.fr/category/formation/
 
-Nous pouvons également réaliser des formations à la demande. Dans tous
-les  cas, il faudrait préciser le nombre de personnes qui aura besoin
+Nous pouvons par ailleurs réaliser des formations à la demande. Dans tous
+les cas, il faudrait préciser le nombre de personnes qui aura besoin
 de formation, le type et le niveau de formation attendu.
 
 Pensez-vous avoir besoin de soutien pour l'adaptation à la grille et/ou
@@ -95,7 +96,7 @@ utilisent-ils déjà l’infrastructure France Grilles ou l'infrastructure
 `EGI <https://www.egi.eu>`_ ou une infrastructure nationale distribuée ?
 Si de telles collaborations sont prévues ou possibles, indiquez si
 possible les pays, projets ou infrastructures concernées. Si vous les
-connaissez indiquez les « organisations virtuelles » (VO) auxquelles
+connaissez, indiquez les « organisations virtuelles » (VO) auxquelles
 participent ces scientifiques.
 
 
@@ -107,7 +108,7 @@ chacune de vos applications. Le terme application est un programme
 informatique ou un ensemble de programmes informatiques et de
 bibliothèques qui peuvent avoir été fournis par un éditeur et/ou
 être/avoir été développés par l'utilisateur ou ses collègues ou
-partenaires).
+partenaires.
 
 Cette partie permet de quantifier le besoin en ressources, soyez le
 plus précis possible en fonction des services.
@@ -124,7 +125,7 @@ Grille de calcul
 * Quantité de stockage nécessaire en distinguant ce qui est du
   *scratch* (usage local temporaire d'espace disque rapide par
   l'application lors des traitements), de ce qui est des données
-  (entrée ou sorties) devant être accessibles aux applications
+  (en entrée ou en sortie) devant être accessibles aux applications
   sur le système de stockage.
 
 * Logiciels et bibliothèques nécessaires (préciser pour chaque
@@ -139,9 +140,9 @@ Grille de calcul
 Cloud Computing
 +++++++++++++++
 
-* Nombre de machine virtuelle nécessaire
+* Nombre de machines virtuelles nécessaire
 
-* Quelle quantité de RAM et de coeur par machine (ces chiffres
+* Quelle quantité de RAM et de cœur par machine (ces chiffres
   peuvent être différents pour chaque machine virtuelle)
 
 * Besoin en GPU
@@ -151,7 +152,7 @@ Cloud Computing
 * Quantité de stockage nécessaire en distinguant ce qui est du
   *scratch* (usage local temporaire d'espace disque rapide par
   l'application lors des traitements), de ce qui est des données
-  (entrée ou sorties) devant être accessibles aux applications
+  (en entrée ou en sortie) devant être accessibles aux applications
   sur le système de stockage.
 
 
@@ -165,7 +166,7 @@ Si vous avez besoin de ce service, pourriez-vous détailler :
 
 * Quelles sont vos besoins en terme de stockage ?
 
-* Avez-vous besoin de mettre en oeuvre une stratégie particulière
+* Avez-vous besoin de mettre en œuvre une stratégie particulière
   de gestion de données en lien avec un plan de gestion de données ?
 
 * Quels types de fichier stockez-vous (taille, format, etc) ?
@@ -182,4 +183,3 @@ France Grilles à répondre à votre besoin de façon adéquate.
 
 
 .. [1] https://cat.opidor.fr/index.php/Nomenclature_ERC
-
