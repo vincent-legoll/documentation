@@ -140,10 +140,13 @@ Grille de calcul
 Cloud Computing
 +++++++++++++++
 
-* Nombre de machines virtuelles nécessaire
+* Nombre de machines virtuelles (VM) nécessaire
 
-* Quelle quantité de RAM et de cœur par machine (ces chiffres
-  peuvent être différents pour chaque machine virtuelle)
+* Quelle quantité de RAM et de cœur par VM (ces chiffres
+  peuvent être différents pour chaque VM)
+
+* Quel système d'exploitation sur chaque VM
+  (peuvent être différents pour chaque VM)
 
 * Besoin en GPU
 
