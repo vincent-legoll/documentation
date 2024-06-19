@@ -67,5 +67,5 @@ computing grid tools [5]_.
 .. [3] ANSSI Recommandations concerning the password creation (fr): https://cyber.gouv.fr/cybermois-2021-les-mots-de-passe
 
 .. [4] Loading a certificate in a browser (fr): https://services.renater.fr/tcs/faq/tcs_personnes/export_import#importer_une_sauvegarde_de_certificat_dans_mon_navigateur 
-i
+
 .. [5] Converting a certificate: https://doc.cc.in2p3.fr/en/Daily-usage/certificate.html#certificate
