@@ -18,6 +18,13 @@ et la sauvegarde des clés privées des certificats délivrés.
 Obtention d'un certificat
 -------------------------
 
+L'obtention d'un certificat CNRS n'est possible que pour les agents
+ayant un identifiant JANUS pointant vers une adresse e-mail dans un
+domaine géré par le CNRS. Si ce n'est pas le cas, il faut passer par
+la tutelle à qui appartient le nom de domaine. Par exemple, pour
+le personnel du laboratoire Creatis dont le nom de domaine est géré
+par l'INSA, il faut contacter l'INSA pour obtenir un certificat.
+
 Pour obtenir un certificat, il faut suivre les étapes suivantes :
 
 1. Se connecter au portail SESAME : https://sesame.cnrs.fr/
@@ -58,6 +65,6 @@ utilisé avec les outils de grille de calcul [5]_.
 
 .. [3] Recommandation de l'ANSSI concernant les mots de passe : https://cyber.gouv.fr/cybermois-2021-les-mots-de-passe
 
-.. [4] Chargement d'un certificat dans le navigateur : https://services.renater.fr/tcs/faq/tcs_personnes/export_import#importer_une_sauvegarde_de_certificat_dans_mon_navigateur 
+.. [4] Chargement d'un certificat dans le navigateur : https://services.renater.fr/tcs/faq/tcs_personnes/export_import#importer_une_sauvegarde_de_certificat_dans_mon_navigateur
 
 .. [5] Conversion d'un certificat : https://doc.cc.in2p3.fr/fr/Daily-usage/faq/faq-general-help.html#convertir-un-certificat
