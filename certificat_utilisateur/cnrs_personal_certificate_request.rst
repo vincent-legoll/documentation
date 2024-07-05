@@ -5,7 +5,7 @@ Introduction
 ------------
 
 This documentation outlines the procedure to obtain a TCS [1]_
-certifcate for CNRS employees. These certificates are issued to
+certificate for CNRS employees. These certificates are issued to
 facilitate access to grid computing resources, cloud services, and
 secure websites.
 
