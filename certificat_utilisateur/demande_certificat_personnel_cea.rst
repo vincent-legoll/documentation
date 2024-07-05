@@ -26,11 +26,11 @@ Pour obtenir un certificat, il faut suivre les étapes suivantes :
    Commission et s'authentifier avec ses identifiants (AB123456 + mobipass)
 
 3. Sélectionner le *Certificate Profile* : "GEANT Personal Authentication"
-   et remplir les champs : 
+   et remplir les champs :
 
    * Enrollment Method: KeyGEneration
 
-   * Key Type: RSA - 2048 
+   * Key Type: RSA - 2048
 
    * Mot de passe robuste [3]_
 
@@ -53,6 +53,6 @@ utilisé avec les outils de grille de calcul [5]_.
 
 .. [3] Recommandation de l'ANSSI concernant les mots de passe : https://cyber.gouv.fr/cybermois-2021-les-mots-de-passe
 
-.. [4] Chargement d'un certificat dans le navigateur : https://services.renater.fr/tcs/faq/tcs_personnes/export_import#importer_une_sauvegarde_de_certificat_dans_mon_navigateur 
+.. [4] Chargement d'un certificat dans le navigateur : https://services.renater.fr/tcs/faq/tcs_personnes/export_import#importer_une_sauvegarde_de_certificat_dans_mon_navigateur
 
 .. [5] Conversion d'un certificat : https://doc.cc.in2p3.fr/fr/Daily-usage/faq/faq-general-help.html#convertir-un-certificat
