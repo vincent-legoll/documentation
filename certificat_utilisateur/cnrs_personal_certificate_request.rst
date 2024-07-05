@@ -53,7 +53,7 @@ the SESAME support team by clicking on the "Support" link in the
 bottom right-hand corner.
 
 Conversion and import
---------------------
+---------------------
 
 The downloaded certificate is in PKCS12 format. It can be loaded into
 the browser [4]_ or transformed into x509 format for use with the
@@ -66,6 +66,6 @@ computing grid tools [5]_.
 
 .. [3] ANSSI Recommandations concerning the password creation (fr): https://cyber.gouv.fr/cybermois-2021-les-mots-de-passe
 
-.. [4] Loading a certificate in a browser (fr): https://services.renater.fr/tcs/faq/tcs_personnes/export_import#importer_une_sauvegarde_de_certificat_dans_mon_navigateur 
+.. [4] Loading a certificate in a browser (fr): https://services.renater.fr/tcs/faq/tcs_personnes/export_import#importer_une_sauvegarde_de_certificat_dans_mon_navigateur
 
 .. [5] Converting a certificate: https://doc.cc.in2p3.fr/en/Daily-usage/certificate.html#certificate
