@@ -1,0 +1,1 @@
+"vo.france-grilles.fr" "voms-fg.ijclab.in2p3.fr" "443" "/DC=org/DC=terena/DC=tcs/C=FR/L=Paris/O=Centre national de la recherche scientifique/CN=voms-fg.ijclab.in2p3.fr" "vo.france-grilles.fr"
