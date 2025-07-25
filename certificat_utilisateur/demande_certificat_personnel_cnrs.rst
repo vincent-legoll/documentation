@@ -7,13 +7,13 @@ Introduction
 Cette documentation détaille la procédure pour obtenir un certificat
 TCS [1]_ pour les agents du CNRS. Ces certificats sont notamment
 délivrés pour pouvoir accéder aux ressources de grilles de calcul,
-aux cloud et aux sites Web sécurisés.
+aux clouds et aux sites Web sécurisés.
 
 Pour ceux qui souhaitent avoir plus d'information concernant les
 certificats, RENATER maintient une documentation à jour [2]_.
 
-**Important :** L'utilisateur a la responsabilité d'assurer le séquestre
-et la sauvegarde des clés privées des certificats délivrés.
+**Important :** L'utilisateur a la responsabilité d'assurer le stockage
+sécurisé et la sauvegarde des clés privées des certificats délivrés.
 
 
 Obtention d'un certificat
@@ -27,7 +27,7 @@ Pour obtenir un certificat, il faut suivre les étapes suivantes :
 
 1. Se rendre sur le portail HARICA : https://cm.harica.gr/
 
-2. Se connecter en utilisant le bouton "Academic Login"
+2. Se connecter en utilisant le bouton "Academic Login".
 
 3. S'identifier à l'aide de vos identifiants CNRS. Pour cela, il faut
    sélectionner "CNRS - Personnels des unités" et passer à l'étape
@@ -35,18 +35,18 @@ Pour obtenir un certificat, il faut suivre les étapes suivantes :
    identifiants Janus.
 
 4. Sélectionner un certificat IGTF en cliquant sur "IGTF Client Auth" dans
-   le menu de gauche puis cliquez sur "Next"
+   le menu de gauche puis cliquez sur "Next".
 
 5. Cocher la case d'acceptation des conditions d'utilisation, après les
    avoir lues et cliquez sur "Submit Request".
 
-6. Sur l'écran suivant, cliquez sur "Enroll your Certificate"
+6. Sur l'écran suivant, cliquez sur "Enroll your Certificate".
 
 7. Laissez les valeurs par défaut, entrez un mot de passe robuste [3]_, cochez
-   comme quoi vous comprenez que seul vous connaissez votre mot de passe.
-   Cliquez sur "Enroll Certificate"
+   comme quoi vous comprenez que vous seul connaissez ce mot de passe.
+   Cliquez sur "Enroll Certificate".
 
-8. Cliquez sur "Download" pour télécharger votre certificate. Notez que
+8. Cliquez sur "Download" pour télécharger votre certificat. Notez que
    c'est le seul moment où vous pourrez télécharger votre certificat.
    Le fichier est téléchargé sous le nom "Certificate.p12".
 
@@ -54,7 +54,7 @@ Pour obtenir un certificat, il faut suivre les étapes suivantes :
 En cas de problème
 ------------------
 
-Si vous rencontrez des difficultés dans la génération de votre
+Si vous rencontrez des difficultés lors de la génération de votre
 certificat, vous pouvez contacter l'assistance du site SESAME en
 cliquant sur le lien "Assistance" en bas à droite.
 
