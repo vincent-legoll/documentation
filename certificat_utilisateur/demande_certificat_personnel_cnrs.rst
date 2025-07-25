@@ -1,4 +1,4 @@
-Demande d'un certificat personnel CNRS
+Demande d'un certificat personnel IGTF
 ======================================
 
 Introduction
@@ -9,40 +9,47 @@ TCS [1]_ pour les agents du CNRS. Ces certificats sont notamment
 délivrés pour pouvoir accéder aux ressources de grilles de calcul,
 aux cloud et aux sites Web sécurisés.
 
-Ce guide est basé sur la documentation de référence du CNRS [2]_.
+Pour ceux qui souhaitent avoir plus d'information concernant les
+certificats, RENATER maintient une documentation à jour [2]_.
 
-**Note :** L'utilisateur a la responsabilité d'assurer le séquestre
+**Important :** L'utilisateur a la responsabilité d'assurer le séquestre
 et la sauvegarde des clés privées des certificats délivrés.
 
 
 Obtention d'un certificat
 -------------------------
 
-L'obtention d'un certificat CNRS n'est possible que pour les agents
-ayant un identifiant JANUS pointant vers une adresse e-mail dans un
-domaine géré par le CNRS. Si ce n'est pas le cas, il faut passer par
-la tutelle à qui appartient le nom de domaine. Par exemple, pour
-le personnel du laboratoire Creatis dont le nom de domaine est géré
-par l'INSA, il faut contacter l'INSA pour obtenir un certificat.
+L'obtention d'un certificat n'est possible que pour les agents ayant un
+identifiant d'un établissement public de l'Enseignement Supérieur et
+de la Recherche.
 
 Pour obtenir un certificat, il faut suivre les étapes suivantes :
 
-1. Se connecter au portail SESAME : https://sesame.cnrs.fr/
+1. Se rendre sur le portail HARICA : https://cm.harica.gr/
 
-2. Cliquer sur la zone "Gérer mes certificats"
+2. Se connecter en utilisant le bouton "Academic Login"
 
 3. S'identifier à l'aide de vos identifiants CNRS. Pour cela, il faut
    sélectionner "CNRS - Personnels des unités" et passer à l'étape
    suivante. Il vous est alors demandé de vous identifier avec vos
    identifiants Janus.
 
-4. Commander un certificat en cliquant sur le bouton "Demander un
-   nouveau certificat personnel"
+4. Sélectionner un certificat IGTF en cliquant sur "IGTF Client Auth" dans
+   le menu de gauche puis cliquez sur "Next"
 
-5. Choisir un mot de passe robuste pour protéger le certificat [3]_
+5. Cocher la case d'acceptation des conditions d'utilisation, après les
+   avoir lues et cliquez sur "Submit Request".
 
-6. Le certificat généré est ensuite automatiquement téléchargé sur
-   votre ordinateur.
+6. Sur l'écran suivant, cliquez sur "Enroll your Certificate"
+
+7. Laissez les valeurs par défaut, entrez un mot de passe robuste [3]_, cochez
+   comme quoi vous comprenez que seul vous connaissez votre mot de passe.
+   Cliquez sur "Enroll Certificate"
+
+8. Cliquez sur "Download" pour télécharger votre certificate. Notez que
+   c'est le seul moment où vous pourrez télécharger votre certificat.
+   Le fichier est téléchargé sous le nom "Certificate.p12".
+
 
 En cas de problème
 ------------------
@@ -61,7 +68,7 @@ utilisé avec les outils de grille de calcul [5]_.
 
 .. [1] Certificat TCS : https://wiki.geant.org/display/TCSNT/TCS+wiki+%282020%29+Sectigo
 
-.. [2] Documentation SESAME du CNRS : https://aide.core-cloud.net/certificats/Pages/PersonnelDemanderCertificat.aspx
+.. [2] Documentation RENATER sur les certificats : https://services.renater.fr/tcs/index
 
 .. [3] Recommandation de l'ANSSI concernant les mots de passe : https://cyber.gouv.fr/cybermois-2021-les-mots-de-passe
 
